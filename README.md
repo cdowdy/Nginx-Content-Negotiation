@@ -18,6 +18,6 @@ Related to the Post [Conditionally Serve Webp, JXR Images with Nginx](https://co
   
 * Webp  
   [Node Webp](https://github.com/yuanyan/node-webp-bin)  
-  [cwebp from google](https://developers.google.com/speed/webp/download)
+  [cwebp from google](https://developers.google.com/speed/webp/download)  
   [Imagemin webp](https://www.npmjs.com/package/imagemin-webp)
 
